@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Andrey Dvornikov</title>
+  <desc id="desc">Systems, telecom and algorithms engineer profile header</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#30475e" stroke-width="1" opacity=".28"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".55" stop-color="#0d1117" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity=".35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="#0d1117"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <path d="M0 293H1200M0 294H1200" stroke="#30475e" opacity=".55"/>
+  <path d="M64 73H311" stroke="#f59e0b" stroke-width="3"/>
+  <circle cx="331" cy="73" r="5" fill="#f59e0b"/>
+  <path d="M784 118c48-48 126-48 174 0M810 144c34-34 90-34 124 0M836 170c19-19 51-19 70 0" fill="none" stroke="#f59e0b" stroke-width="2" opacity=".8"/>
+  <circle cx="871" cy="195" r="5" fill="#f59e0b"/>
+  <path d="M899 195h237M990 106v156M1075 77v185" stroke="#30475e" stroke-width="1" opacity=".8"/>
+  <path d="M899 195h237" stroke="#f59e0b" stroke-width="2" opacity=".65"/>
+  <rect width="1200" height="360" rx="18" fill="url(#fade)"/>
+  <text x="64" y="151" fill="#f5f5f5" font-family="'JetBrains Mono','IBM Plex Mono',monospace" font-size="15" letter-spacing="3">ENGINEERING PROFILE / 2026</text>
+  <text x="64" y="224" fill="#f5f5f5" font-family="'Space Grotesk','Inter',Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-1">ANDREY</text>
+  <text x="64" y="278" fill="#f59e0b" font-family="'Space Grotesk','Inter',Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-1">DVORNIKOV</text>
+  <text x="64" y="326" fill="#aeb8c2" font-family="'JetBrains Mono','IBM Plex Mono',monospace" font-size="14" letter-spacing="1.6">SYSTEMS  ·  TELECOM  ·  ALGORITHMS</text>
+</svg>
