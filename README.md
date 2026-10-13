@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  Студент СибГУТИ, который исследует системы на стыке <strong>C++</strong>, <strong>телекоммуникаций</strong>, <strong>алгоритмов</strong> и <strong>сетей</strong>.<br />
-  Мне интересно понимать, что происходит под капотом: от планирования радиоресурсов до измерений, профилирования и оптимизации.
+  Студент СибГУТИ, исследую системы на стыке <strong>C++</strong>, <strong>телекоммуникаций</strong>, <strong>алгоритмов</strong> и <strong>сетей</strong>.<br />
+  Работаю с сетями LTE и алгоритмами L2 уровня (планировщики и аллокаторы).
 </p>
 
 <p align="center">
@@ -41,12 +41,6 @@
 
 `SDR` · `ADALM-PLUTO` · `SoapySDR` · `C++17` · `CMake`
 
-#### [NetScan](https://github.com/AndreyDvornikov/NetScan)
-
-Развивающийся графический инструмент для запуска, сбора и анализа сетевых измерений. В центре — iperf3, ping и traceroute; цель — вырастить проект в осмысленный инструмент диагностики сети.
-
-`Python` · `Linux` · `Networking` · `Network measurements`
-
 #### [Particle Probability Simulation](https://github.com/AndreyDvornikov/particle-probability-sim)
 
 Учебно-исследовательская симуляция диффузии частиц в пористых структурах: random walk, распределение Максвелла, `D_eff`, tortuosity, RMS displacement и статистическая визуализация для нескольких геометрий.
@@ -64,9 +58,9 @@
 ### Стек
 
 **Основной:** C++ · Python · Linux · CMake · Bash<br />
-**Системы и сети:** LTE / RAN · SDR · TCP/IP · ZMQ · Docker · PostgreSQL · Redis<br />
+**Системы и сети:** LTE / RAN · SDR · TCP/IP · ZMQ · Docker · PostgreSQL<br />
 **Инженерная практика:** algorithms · data structures · profiling · optimization · performance analysis<br />
-**Изучаю и применяю:** Rust · Go · tmux · Arch Linux + Hyprland
+**Изучаю и применяю:** MatLab · Arch Linux + Hyprland
 
 ---
 
@@ -81,4 +75,4 @@
 
 Открыт к разговору об инженерных задачах, телекоммуникациях, сетях и алгоритмах.
 
-<a href="https://github.com/AndreyDvornikov">github.com/AndreyDvornikov</a> &nbsp;·&nbsp; Авадик Кедаврик
+Почта: <a href="advornikov0809@gmail.com">Андрей Дворников</a> &nbsp;·&nbsp;
